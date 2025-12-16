@@ -31,10 +31,6 @@ for count in range(100, 0 ,-1):
 for count in range(1, 11):
      print(count)
 
-for count in range(5, 33):
-     print(count)
-
-
 
 
 
@@ -50,6 +46,10 @@ for count in range(5, 33):
 
 ########################################################################
 # Task 5:
+
+for count in range(5, 33):
+     print(count)
+
 
 
 
