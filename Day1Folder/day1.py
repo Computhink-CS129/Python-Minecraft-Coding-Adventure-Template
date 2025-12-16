@@ -60,6 +60,7 @@ def addition(num1, num2):
 addition(43278, 6289)
 
 #division
+#multiplication
 
 
 def teleport():
