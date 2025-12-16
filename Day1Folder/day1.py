@@ -56,6 +56,7 @@ greetings() # call a function
 # Task 7:                                                                                                                                                                                                     111111111111111111111111
 def addition(num1, num2):
     print(num1 + num2)
+addition(12, 9)
 
 # division(12, 9)
 def division(num1, num2):
@@ -64,7 +65,7 @@ def division(num1, num2):
 division(12, 9)
 
 # subtraction
-# multiply
+# multiplication
 
 
 ########################################################################
