@@ -57,8 +57,8 @@ greetings() # call a function
 def addition(num1, num2):
     print(num1 + num2)
 
-addition(12, 9)
-def addition(num1, num2):
+division(12, 9)
+def division(num1, num2):
     print(num1 + num2)
 
 division(12, 9)
