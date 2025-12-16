@@ -7,7 +7,7 @@ print("hello from day2")
 for count in range(15):
     print("hi")
 for letter in "hello":
-    print
+    print(letter)
 
 ########################################################################
 # Task 2:
