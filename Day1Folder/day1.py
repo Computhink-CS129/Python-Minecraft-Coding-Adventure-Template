@@ -61,7 +61,7 @@ addition(43278, 6289)
 
 #division
 #multiplication
-
+#subtraction
 
 def teleport():
     agent.teleport_to_player()
