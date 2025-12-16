@@ -19,14 +19,6 @@ for letter in name:
 print("Who is the best!")
 print(name + "!!")  
 
-for count in range(1, 11):
-     print(count)
-
-for count in range(2, 101, 2):
-     print(count)
-
-for count in range(100, 0 ,-1):
-     print(count)
 
 
 
@@ -35,6 +27,14 @@ for count in range(100, 0 ,-1):
 
 ########################################################################
 # Task 3:
+for count in range(1, 11):
+     print(count)
+
+for count in range(2, 101, 2):
+     print(count)
+
+for count in range(100, 0 ,-1):
+     print(count)
 
 
 
