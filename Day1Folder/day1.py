@@ -54,7 +54,19 @@ intro ("Star")
 greetings() # call a function
 ########################################################################
 # Task 7:                                                                                                                                                                                                     111111111111111111111111
+def addition(num1, num2):
+    player.say(num1 * num2)
 
+addition(12, 9)
+
+def teleport():
+    agent.teleport_to_player()
+player.on_chat("come", teleport)
+
+#tl : turn left
+def tl():
+    agent.turn(TurnDirection.LEFT)
+player.on_chat("tl", tl)
 
 
 ########################################################################
