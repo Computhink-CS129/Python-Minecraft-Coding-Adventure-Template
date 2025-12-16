@@ -18,6 +18,9 @@ for letter in name:
     
 print("Who is the best!")
 print(name + "!!")  
+
+for counter in range(1, 11):
+     print
 ########################################################################
 # Task 3:
 
