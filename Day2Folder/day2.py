@@ -7,7 +7,7 @@ print("hello from day2")
 for count in range(15):
     print("count")
 
-for letter in "Dandy":
+for letter in "Dandy's World":
     print(letter)
 
 ########################################################################
