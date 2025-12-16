@@ -57,7 +57,7 @@ greetings() # call a function
 def addition(num1, num2):
     print(num1 * num2)
 
-addition(32, )
+addition(32, 41)
 
 #division
 #multiplication
