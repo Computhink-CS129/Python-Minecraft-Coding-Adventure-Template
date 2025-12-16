@@ -14,7 +14,7 @@ for letter in "Dandy's World":
 # Task 2:
 name = "OLIVIA"
 for letter in name:
-        
+        print("Give me a")
 
 
 ########################################################################
