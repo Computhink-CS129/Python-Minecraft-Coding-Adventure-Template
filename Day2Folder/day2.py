@@ -28,8 +28,7 @@ for count in range(2, 101, 2):
 for count in range(100, 0 ,-1):
      print(count)
 
-for count in range(1, 11):
-     print(count)
+
 
 
 
@@ -41,7 +40,8 @@ for count in range(1, 11):
 
 ########################################################################
 # Task 4:
-
+for count in range(1, 11):
+     print(count)
 
 
 ########################################################################
