@@ -28,7 +28,14 @@ for count in range(2, 101, 2):
 for count in range(100, 0 ,-1):
      print(count)
 
-for count in range(1, 11)
+for count in range(1, 11):
+     print(count)
+
+for count in range(5, 33):
+     print(count)
+
+for count in range(50, 0, -1):
+     print(count)
 
 
 
