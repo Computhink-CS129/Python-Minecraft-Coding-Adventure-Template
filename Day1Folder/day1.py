@@ -59,18 +59,6 @@ def addition(num1, num2):
 
 addition(32, 41)
 
-#division
-#multiplication
-#subtraction
-
-def teleport():
-    agent.teleport_to_player()
-player.on_chat("come", teleport)
-
-#tl : turn left
-def tl():
-    agent.turn(TurnDirection.LEFT)
-player.on_chat("tl", tl)
 
 
 ########################################################################
