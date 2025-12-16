@@ -61,7 +61,6 @@ addition(12, 9)
 
 # subtraction
 # division
-
-
+# multiply
 ########################################################################
 # Additional exercises:
