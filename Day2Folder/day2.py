@@ -19,7 +19,7 @@ for letter in name:
 print("Who is the best!")
 print(name + "!!")  
 
-for counter in range(1, 11):
+for count in range(1, 11):
      print(count)
 
 
