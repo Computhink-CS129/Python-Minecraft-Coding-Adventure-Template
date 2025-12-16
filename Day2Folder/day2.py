@@ -20,7 +20,7 @@ print("Who is the best!")
 print(name + "!!")  
 
 for counter in range(1, 11):
-     print
+     print(count)
 ########################################################################
 # Task 3:
 
