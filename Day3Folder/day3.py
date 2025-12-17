@@ -40,7 +40,8 @@ print("the answer is", answer)
 hidden_password = "passme"
 guess = input("do you know my password?")
 
-
+if hidden_password == guess:
+    
 
 
 ########################################################################
