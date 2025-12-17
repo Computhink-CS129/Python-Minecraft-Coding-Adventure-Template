@@ -51,7 +51,7 @@ else:
 # Task 6:
 
 
-
+hidden_password = "pass"
 
 
 
