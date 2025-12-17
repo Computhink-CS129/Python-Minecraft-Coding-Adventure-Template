@@ -64,7 +64,7 @@ for count in range(3):
         print("its okay, try again")
 
 if its_correct == False:
-    print("Your account is locked. I have recorded your face ")
+    print("Your account is locked. I have recorded your face in the video.")
 
 ########################################################################
 # Task 7:
