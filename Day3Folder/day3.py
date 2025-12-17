@@ -9,7 +9,6 @@ yourname = input("What is your name?")
 title = input("What is your title?")
 task = input("What is the task")
 
-
 #print() use string concatenation +
 print("Hello, " + yourname)
 
