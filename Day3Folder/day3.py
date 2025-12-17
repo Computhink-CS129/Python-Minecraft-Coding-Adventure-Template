@@ -50,7 +50,13 @@ else:
 ########################################################################
 # Task 6:
 
-print("Who ")
+
+yourage == 21
+
+print("Who do you want to vote??")
+if vote == below (yourage):
+    
+
 
 
 
