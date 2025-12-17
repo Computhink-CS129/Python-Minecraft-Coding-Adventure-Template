@@ -57,6 +57,7 @@ for count in range(3):
     guess = input("do you know my password?")
 
     if hidden_password == guess:
+        print("please come in")
 
 
 
