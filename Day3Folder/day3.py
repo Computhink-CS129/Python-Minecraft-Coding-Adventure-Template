@@ -7,8 +7,7 @@ print("hello from day3")
 
 yourname = input("What is your name?")
 
-#title
-#task
+
 
 #print() use string concatenation +
 print("Hello, " + yourname)
