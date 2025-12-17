@@ -54,7 +54,9 @@ else:
 hidden_password = "passme"
 is_correct = False
 for count in range(3):
-    guess = input("do you ")
+    guess = input("do you know my password?")
+
+    if hidden_password == guess:
 
 
 
