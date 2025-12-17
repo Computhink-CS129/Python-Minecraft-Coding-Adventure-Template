@@ -26,7 +26,7 @@ print(title, yourname, "orders the olafs to", task)
 num1 = input("what is the first number?")
 num2 = input("what is the second number?")
 # conversion int()
-answer = int(num)
+answer = int(num1) *
 
 
 
