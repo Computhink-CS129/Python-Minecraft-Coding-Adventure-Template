@@ -23,11 +23,11 @@ print("hello from day3")
 # Task 3:
 
 #calculator
-num1 = input("what is the first number?")
-num2 = input("what is the second number?")
-# conversion int()
-answer = int(num1) * int(num2)
-print("the answer is", answer)
+# num1 = input("what is the first number?")
+# num2 = input("what is the second number?")
+# # conversion int()
+# answer = int(num1) * int(num2)
+# print("the answer is", answer)
 
 
 ########################################################################
