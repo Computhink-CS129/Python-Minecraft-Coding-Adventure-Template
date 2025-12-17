@@ -52,7 +52,9 @@ else:
 
 
 hidden_password = "passme"
-is_correct = False 
+is_correct = False
+for count in range(3):
+    guess = input
 
 
 
