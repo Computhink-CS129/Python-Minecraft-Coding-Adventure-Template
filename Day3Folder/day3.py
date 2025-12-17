@@ -63,9 +63,8 @@ for count in range(3):
     else:
         print("its okay, try again")
 
-
-
-
+if its_correct == False:
+    print
 
 ########################################################################
 # Task 7:
