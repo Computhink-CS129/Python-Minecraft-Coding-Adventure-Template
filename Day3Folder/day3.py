@@ -5,12 +5,12 @@ print("hello from day3")
 ########################################################################
 # Task 1:
 
-yourname = input("What is your name?")
-title = input("What is your title?")
-task = input("What is the task")
+# yourname = input("What is your name?")
+# title = input("What is your title?")
+# task = input("What is the task")
 
-#print() use string concatenation +
-print(title, yourname, "orders the olafs to", task)
+# #print() use string concatenation +
+# print(title, yourname, "orders the olafs to", task)
 
 
 
