@@ -7,7 +7,7 @@ print("hello from day3")
 
 yourname = input("What is your name?")
 title = input("What is your title?")
-task = input
+task = input("")
 
 
 #print() use string concatenation +
