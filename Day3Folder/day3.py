@@ -24,7 +24,7 @@ print(title, yourname, "orders the olafs to", task)
 
 #calculator
 num1 = input("what is the first number?")
-num2 = input
+num2 = input("what is the ")
 
 
 
