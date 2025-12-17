@@ -51,11 +51,7 @@ else:
 # Task 6:
 
 
-yourage == 21
 
-print("Who do you want to vote??")
-if vote == below (yourage):
-    print("")
 
 
 
