@@ -10,7 +10,7 @@ yournamw = input("What is your name?")
 #title
 #task
 
-#print
+#print() use string con
 
 ########################################################################
 # Task 2:
