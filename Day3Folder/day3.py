@@ -61,7 +61,8 @@ for count in range(3):
         is_correct = True
         break
     else:
-        print("")
+        print("its okay, try again")
+
 
 
 
