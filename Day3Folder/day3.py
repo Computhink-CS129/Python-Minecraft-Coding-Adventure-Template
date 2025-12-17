@@ -58,6 +58,7 @@ for count in range(3):
 
     if hidden_password == guess:
         print("please come in")
+        is_correct
 
 
 
