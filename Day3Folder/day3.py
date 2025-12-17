@@ -41,8 +41,9 @@ hidden_password = "passme"
 guess = input("do you know my password?")
 
 if hidden_password == guess:
-    print("")
-
+    print("olease come in")
+else:
+    p
 
 ########################################################################
 # Task 6:
